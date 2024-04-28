@@ -1,0 +1,70 @@
+{
+  "title": "Star Wars: Episode I - The Phantom Menace",
+  "id": "249",
+  "year": "1999",
+  "url": "https://www.imdb.com/title/tt0120915/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "countryList": [
+    "United States"
+  ],
+  "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory.",
+  "budget": "115,000,000",
+  "gross": "1,027,083,462",
+  "ratingValue": "6.5",
+  "ratingCount": "856000",
+  "duration": "136",
+  "castList": [
+    "Ewan McGregor",
+    "Liam Neeson",
+    "Natalie Portman",
+    "Jake Lloyd",
+    "Ian McDiarmid",
+    "Pernilla August",
+    "Oliver Ford Davies",
+    "Hugh Quarshie",
+    "Ahmed Best",
+    "Anthony Daniels",
+    "Kenny Baker",
+    "Frank Oz",
+    "Terence Stamp",
+    "Brian Blessed",
+    "Andy Secombe",
+    "Ray Park",
+    "Lewis Macleod",
+    "Warwick Davis"
+  ],
+  "characterList": [
+    "Obi-Wan Kenobi",
+    "Qui-Gon Jinn",
+    "Queen Amidala",
+    "Anakin Skywalker",
+    "Senator Palpatine",
+    "Shmi Skywalker",
+    "Sio Bibble",
+    "Captain Panaka",
+    "Jar Jar Binks",
+    "C-3PO",
+    "R2-D2",
+    "Yoda",
+    "Chancellor Valorum",
+    "Boss Nass",
+    "Watto",
+    "Darth Maul",
+    "Sebulba",
+    "Wald"
+  ],
+  "directorList": [
+    "George Lucas"
+  ],
+  "contentRating": "PG",
+  "languageList": [
+    "English",
+    "Sanskrit"
+  ],
+  "userReviews": "4100",
+  "criticReviews": "365"
+}

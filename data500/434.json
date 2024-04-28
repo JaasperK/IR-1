@@ -1,0 +1,69 @@
+{
+  "title": "Last Action Hero",
+  "id": "434",
+  "year": "1993",
+  "url": "https://www.imdb.com/title/tt0107362/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "countryList": [
+    "United States"
+  ],
+  "description": "With the help of a magic ticket, a young movie fan is transported into the fictional world of his favorite action movie character.",
+  "budget": "85,000,000",
+  "gross": "137,298,489",
+  "ratingValue": "6.5",
+  "ratingCount": "164000",
+  "duration": "130",
+  "castList": [
+    "Arnold Schwarzenegger",
+    "F. Murray Abraham",
+    "Art Carney",
+    "Charles Dance",
+    "Frank McRae",
+    "Tom Noonan",
+    "Robert Prosky",
+    "Anthony Quinn",
+    "Mercedes Ruehl",
+    "Austin O\u0027Brien",
+    "Ian McKellen",
+    "Professor Toru Tanaka",
+    "Joan Plowright",
+    "Keith Barish",
+    "Jim Belushi",
+    "Chevy Chase",
+    "Chris Connelly",
+    "Karen Duffy"
+  ],
+  "characterList": [
+    "Jack Slater",
+    "John Practice",
+    "Frank",
+    "Benedict",
+    "Dekker",
+    "Ripper",
+    "Nick",
+    "Vivaldi",
+    "Mom",
+    "Danny",
+    "Death",
+    "Tough Asian Man",
+    "Teacher",
+    "Keith Barish",
+    "James Belushi",
+    "Chevy Chase",
+    "Chris Connelly",
+    "Karen Duffy"
+  ],
+  "directorList": [
+    "John McTiernan"
+  ],
+  "contentRating": "PG-13",
+  "languageList": [
+    "English"
+  ],
+  "userReviews": "387",
+  "criticReviews": "144"
+}

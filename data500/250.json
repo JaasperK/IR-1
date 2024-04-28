@@ -1,0 +1,72 @@
+{
+  "title": "Star Wars: Episode III - Revenge of the Sith",
+  "id": "250",
+  "year": "2005",
+  "url": "https://www.imdb.com/title/tt0121766/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "countryList": [
+    "United States",
+    "Italy",
+    "Switzerland",
+    "Thailand"
+  ],
+  "description": "Three years into the Clone Wars, Obi-Wan Kenobi pursues a new threat, while Anakin Skywalker is lured by Chancellor Palpatine into a sinister plot to rule the galaxy.",
+  "budget": "113,000,000",
+  "gross": "868,390,560",
+  "ratingValue": "7.6",
+  "ratingCount": "845000",
+  "duration": "140",
+  "castList": [
+    "Hayden Christensen",
+    "Natalie Portman",
+    "Ewan McGregor",
+    "Samuel L. Jackson",
+    "Ian McDiarmid",
+    "Jimmy Smits",
+    "Frank Oz",
+    "Anthony Daniels",
+    "Christopher Lee",
+    "Keisha Castle-Hughes",
+    "Silas Carson",
+    "Jay Laga\u0027aia",
+    "Bruce Spence",
+    "Wayne Pygram",
+    "Temuera Morrison",
+    "David Bowers",
+    "Oliver Ford Davies",
+    "Ahmed Best"
+  ],
+  "characterList": [
+    "Anakin Skywalker",
+    "Padmé",
+    "Obi-Wan Kenobi",
+    "Mace Windu",
+    "Supreme Chancellor Palpatine",
+    "Senator Bail Organa",
+    "Yoda",
+    "C-3PO",
+    "Count Dooku",
+    "Queen of Naboo",
+    "Ki-Adi-Mundi",
+    "Captain Typho",
+    "Tion Medon",
+    "Governor Tarkin",
+    "Commander Cody",
+    "Mas Amedda",
+    "Sio Bibble",
+    "Jar Jar Binks"
+  ],
+  "directorList": [
+    "George Lucas"
+  ],
+  "contentRating": "PG-13",
+  "languageList": [
+    "English"
+  ],
+  "userReviews": "3800",
+  "criticReviews": "401"
+}

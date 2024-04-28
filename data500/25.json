@@ -1,0 +1,70 @@
+{
+  "title": "Jurassic World",
+  "id": "25",
+  "year": "2015",
+  "url": "https://www.imdb.com/title/tt0369610/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "countryList": [
+    "United States",
+    "Canada"
+  ],
+  "description": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+  "budget": "150,000,000",
+  "gross": "1,671,537,444",
+  "ratingValue": "6.9",
+  "ratingCount": "679000",
+  "duration": "124",
+  "castList": [
+    "Chris Pratt",
+    "Bryce Dallas Howard",
+    "Ty Simpkins",
+    "Judy Greer",
+    "Irrfan Khan",
+    "Vincent D\u0027Onofrio",
+    "Nick Robinson",
+    "Jake Johnson",
+    "Omar Sy",
+    "BD Wong",
+    "Lauren Lapkus",
+    "Brian Tee",
+    "Katie McGrath",
+    "Andy Buckley",
+    "Eric Edelstein",
+    "Courtney James Clark",
+    "Colby Boothman",
+    "Jimmy Fallon"
+  ],
+  "characterList": [
+    "Owen Grady",
+    "Claire Dearing",
+    "Gray",
+    "Karen",
+    "Masrani",
+    "Vic Hoskins",
+    "Zach",
+    "Lowery",
+    "Barry",
+    "Dr. Henry Wu",
+    "Vivian",
+    "Hamada",
+    "Zara",
+    "Scott",
+    "Paddock Supervisor",
+    "Mosasaurus Announcer",
+    "Young Raptor Handler",
+    "Jimmy Fallon"
+  ],
+  "directorList": [
+    "Colin Trevorrow"
+  ],
+  "contentRating": "PG-13",
+  "languageList": [
+    "English"
+  ],
+  "userReviews": "1700",
+  "criticReviews": "711"
+}

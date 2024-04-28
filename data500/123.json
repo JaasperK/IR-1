@@ -1,0 +1,72 @@
+{
+  "title": "Harry Potter and the Goblet of Fire",
+  "id": "123",
+  "year": "2005",
+  "url": "https://www.imdb.com/title/tt0330373/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "countryList": [
+    "United Kingdom",
+    "United States"
+  ],
+  "description": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+  "budget": "150,000,000",
+  "gross": "897,468,399",
+  "ratingValue": "7.7",
+  "ratingCount": "681000",
+  "duration": "157",
+  "castList": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint",
+    "Eric Sykes",
+    "Timothy Spall",
+    "David Tennant",
+    "Mark Williams",
+    "James Phelps",
+    "Oliver Phelps",
+    "Bonnie Wright",
+    "Jeff Rawle",
+    "Robert Pattinson",
+    "Jason Isaacs",
+    "Tom Felton",
+    "Stanislav Yanevski",
+    "Robert Hardy",
+    "Philip Rham",
+    "Olivia Higginbottom"
+  ],
+  "characterList": [
+    "Harry Potter",
+    "Hermione Granger",
+    "Ron Weasley",
+    "Frank Bryce",
+    "Wormtail",
+    "Barty Crouch Junior",
+    "Arthur Weasley",
+    "Fred Weasley",
+    "George Weasley",
+    "Ginny Weasley",
+    "Amos Diggory",
+    "Cedric Diggory",
+    "Lucius Malfoy",
+    "Draco Malfoy",
+    "Viktor Krum",
+    "Cornelius Fudge",
+    "Death Eater",
+    "Death Eater"
+  ],
+  "directorList": [
+    "Mike Newell"
+  ],
+  "contentRating": "PG-13",
+  "languageList": [
+    "English",
+    "French",
+    "Latin"
+  ],
+  "userReviews": "2100",
+  "criticReviews": "319"
+}

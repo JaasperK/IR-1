@@ -1,0 +1,70 @@
+{
+  "title": "Hugo",
+  "id": "70",
+  "year": "2011",
+  "url": "https://www.imdb.com/title/tt0970179/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "countryList": [
+    "United States",
+    "United Kingdom"
+  ],
+  "description": "In 1931 Paris, an orphan living in the walls of a train station gets wrapped up in a mystery involving his late father and an automaton.",
+  "budget": "150,000,000",
+  "gross": "185,770,310",
+  "ratingValue": "7.5",
+  "ratingCount": "337000",
+  "duration": "126",
+  "castList": [
+    "Asa Butterfield",
+    "Chloë Grace Moretz",
+    "Christopher Lee",
+    "Ben Kingsley",
+    "Sacha Baron Cohen",
+    "Ray Winstone",
+    "Emily Mortimer",
+    "Helen McCrory",
+    "Michael Stuhlbarg",
+    "Frances de la Tour",
+    "Richard Griffiths",
+    "Jude Law",
+    "Kevin Eldon",
+    "Gulliver McGrath",
+    "Shaun Aylward",
+    "Emil Lager",
+    "Angus Barnett",
+    "Edmund Kingsley"
+  ],
+  "characterList": [
+    "Hugo Cabret",
+    "Isabelle",
+    "Monsieur Labisse",
+    "Georges Méliès",
+    "Station Inspector",
+    "Uncle Claude",
+    "Lisette",
+    "Mama Jeanne",
+    "Rene Tabard",
+    "Madame Emilie",
+    "Monsieur Frick",
+    "Hugo\u0027s Father",
+    "Policeman",
+    "Young Tabard",
+    "Street Kid",
+    "Django Reinhardt",
+    "Theatre Manager",
+    "Camera Technician"
+  ],
+  "directorList": [
+    "Martin Scorsese"
+  ],
+  "contentRating": "PG",
+  "languageList": [
+    "English"
+  ],
+  "userReviews": "864",
+  "criticReviews": "711"
+}

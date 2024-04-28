@@ -1,0 +1,71 @@
+{
+  "title": "Dinosaur",
+  "id": "211",
+  "year": "2000",
+  "url": "https://www.imdb.com/title/tt0130623/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Animation",
+    "Adventure",
+    "Drama"
+  ],
+  "countryList": [
+    "United States",
+    "Japan"
+  ],
+  "description": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sanctuary after a meteorite shower destroys his family home.",
+  "budget": "127,500,000",
+  "gross": "349,822,765",
+  "ratingValue": "6.4",
+  "ratingCount": "67000",
+  "duration": "82",
+  "castList": [
+    "D.B. Sweeney",
+    "Julianna Margulies",
+    "Samuel E. Wright",
+    "Alfre Woodard",
+    "Ossie Davis",
+    "Max Casella",
+    "Hayden Panettiere",
+    "Peter Siragusa",
+    "Joan Plowright",
+    "Della Reese",
+    "Matt Adler",
+    "Sandina Bailo-Lape",
+    "Edie Lehmann Boddicker",
+    "Zachary Bostrom",
+    "Cathy Cavadini",
+    "Holly Dorff",
+    "Greg Finley",
+    "Jeff Fischer"
+  ],
+  "characterList": [
+    "Aladar",
+    "Neera",
+    "Kron",
+    "Plio",
+    "Yar",
+    "Zini",
+    "Suri",
+    "Bruton",
+    "Baylene",
+    "Eema",
+    "Additional Voice",
+    "Additional Voice",
+    "Additional Voice",
+    "Additional Voice",
+    "Additional Voice",
+    "Additional Voice",
+    "Additional Voice",
+    "Additional Voice"
+  ],
+  "directorList": [
+    "Eric Leighton",
+    "Ralph Zondag"
+  ],
+  "contentRating": "PG",
+  "languageList": [
+    "English"
+  ],
+  "userReviews": "289",
+  "criticReviews": "110"
+}

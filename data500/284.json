@@ -1,0 +1,70 @@
+{
+  "title": "The Cat in the Hat",
+  "id": "284",
+  "year": "2003",
+  "url": "https://www.imdb.com/title/tt0312528/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "countryList": [
+    "United States",
+    "Canada"
+  ],
+  "description": "Two bored children have their lives turned upside down when a talking cat comes to visit them.",
+  "budget": "109,000,000",
+  "gross": "133,960,541",
+  "ratingValue": "4.1",
+  "ratingCount": "88000",
+  "duration": "82",
+  "castList": [
+    "Mike Myers",
+    "Spencer Breslin",
+    "Dakota Fanning",
+    "Alec Baldwin",
+    "Kelly Preston",
+    "Amy Hill",
+    "Sean Hayes",
+    "Danielle C. Ryan",
+    "Taylor Rice",
+    "Brittany Oaks",
+    "Talia-Lynn Prairie",
+    "Dan Castellaneta",
+    "Victor Brandt",
+    "Daran Norris",
+    "Bugsy",
+    "Frank Welker",
+    "Clint Howard",
+    "Paige Hurd"
+  ],
+  "characterList": [
+    "The Cat",
+    "Conrad",
+    "Sally",
+    "Quinn",
+    "Mom",
+    "Mrs. Kwan",
+    "Mr. Humberfloob",
+    "Thing One",
+    "Thing One",
+    "Thing Two",
+    "Thing Two",
+    "Thing One",
+    "Narrator",
+    "Announcer",
+    "Nevins",
+    "Nevins",
+    "Kate the Caterer",
+    "Denise"
+  ],
+  "directorList": [
+    "Bo Welch"
+  ],
+  "contentRating": "PG",
+  "languageList": [
+    "English"
+  ],
+  "userReviews": "701",
+  "criticReviews": "110"
+}

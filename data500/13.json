@@ -1,0 +1,69 @@
+{
+  "title": "The Hobbit: An Unexpected Journey",
+  "id": "13",
+  "year": "2012",
+  "url": "https://www.imdb.com/title/tt0903624/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "countryList": [
+    "New Zealand",
+    "United States"
+  ],
+  "description": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
+  "budget": "180,000,000",
+  "gross": "1,017,106,749",
+  "ratingValue": "7.8",
+  "ratingCount": "873000",
+  "duration": "169",
+  "castList": [
+    "Martin Freeman",
+    "Ian McKellen",
+    "Richard Armitage",
+    "Andy Serkis",
+    "Ken Stott",
+    "Graham McTavish",
+    "William Kircher",
+    "James Nesbitt",
+    "Stephen Hunter",
+    "Dean O\u0027Gorman",
+    "Aidan Turner",
+    "John Callen",
+    "Peter Hambleton",
+    "Jed Brophy",
+    "Mark Hadlow",
+    "Adam Brown",
+    "Ian Holm",
+    "Elijah Wood"
+  ],
+  "characterList": [
+    "Bilbo",
+    "Gandalf",
+    "Thorin",
+    "Gollum",
+    "Balin",
+    "Dwalin",
+    "Bifur",
+    "Bofur",
+    "Bombur",
+    "Fili",
+    "Kili",
+    "Oin",
+    "Gloin",
+    "Nori",
+    "Dori",
+    "Ori",
+    "Old Bilbo",
+    "Frodo"
+  ],
+  "directorList": [
+    "Peter Jackson"
+  ],
+  "contentRating": "PG-13",
+  "languageList": [
+    "English"
+  ],
+  "userReviews": "1500",
+  "criticReviews": "675"
+}

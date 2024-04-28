@@ -1,0 +1,71 @@
+{
+  "title": "Django Unchained",
+  "id": "305",
+  "year": "2012",
+  "url": "https://www.imdb.com/title/tt1853728/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Drama",
+    "Western"
+  ],
+  "countryList": [
+    "United States"
+  ],
+  "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+  "budget": "100,000,000",
+  "gross": "426,076,293",
+  "ratingValue": "8.5",
+  "ratingCount": "1700000",
+  "duration": "165",
+  "castList": [
+    "Jamie Foxx",
+    "Christoph Waltz",
+    "Leonardo DiCaprio",
+    "Kerry Washington",
+    "Samuel L. Jackson",
+    "Walton Goggins",
+    "Dennis Christopher",
+    "James Remar",
+    "David Steen",
+    "Dana Gourrier",
+    "Nichole Galicia",
+    "Laura Cayouette",
+    "Ato Essandoh",
+    "Sammi Rotibi",
+    "Clay Donahue Fontenot",
+    "Escalante Lundy",
+    "Miriam F. Glover",
+    "Don Johnson"
+  ],
+  "characterList": [
+    "Django",
+    "Dr. King Schultz",
+    "Calvin Candie",
+    "Broomhilda von Shaft",
+    "Stephen",
+    "Billy Crash",
+    "Leonide Moguy",
+    "Butch Pooch",
+    "Mr. Stonesipher",
+    "Cora",
+    "Sheba",
+    "Lara Lee Candie-Fitzwilly",
+    "D\u0027Artagnan",
+    "Rodney",
+    "Big Fred\u0027s Opponent",
+    "Big Fred",
+    "Betina",
+    "Big Daddy"
+  ],
+  "directorList": [
+    "Quentin Tarantino"
+  ],
+  "contentRating": "R",
+  "languageList": [
+    "English",
+    "German",
+    "French",
+    "Italian"
+  ],
+  "userReviews": "1800",
+  "criticReviews": "672"
+}

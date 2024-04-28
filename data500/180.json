@@ -1,0 +1,69 @@
+{
+  "title": "Hulk",
+  "id": "180",
+  "year": "2003",
+  "url": "https://www.imdb.com/title/tt0286716/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "countryList": [
+    "United States"
+  ],
+  "description": "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.",
+  "budget": "137,000,000",
+  "gross": "245,285,165",
+  "ratingValue": "5.6",
+  "ratingCount": "278000",
+  "duration": "138",
+  "castList": [
+    "Eric Bana",
+    "Jennifer Connelly",
+    "Sam Elliott",
+    "Josh Lucas",
+    "Nick Nolte",
+    "Paul Kersey",
+    "Cara Buono",
+    "Todd Tesen",
+    "Kevin Rankin",
+    "Celia Weston",
+    "Mike Erwin",
+    "Lou Ferrigno",
+    "Stan Lee",
+    "Regi Davis",
+    "Craig Damon",
+    "Geoffrey Scott",
+    "Regina McKee Redwing",
+    "Daniel Dae Kim"
+  ],
+  "characterList": [
+    "Bruce Banner",
+    "Betty Ross",
+    "Ross",
+    "Talbot",
+    "Father",
+    "Young David Banner",
+    "Edith Banner",
+    "Young Ross",
+    "Harper",
+    "Mrs. Krensler",
+    "Teenage Bruce Banner",
+    "Security Guard",
+    "Security Guard",
+    "Security Guard",
+    "Security Guard",
+    "President",
+    "National Security Advisor",
+    "Aide"
+  ],
+  "directorList": [
+    "Ang Lee"
+  ],
+  "contentRating": "PG-13",
+  "languageList": [
+    "English",
+    "Spanish"
+  ],
+  "userReviews": "1500",
+  "criticReviews": "224"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "The Avengers",
+  "id": "20",
+  "year": "2012",
+  "url": "https://www.imdb.com/title/tt0848228/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "countryList": [
+    "United States"
+  ],
+  "description": "Earth\u0027s mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+  "budget": "220,000,000",
+  "gross": "1,520,538,536",
+  "ratingValue": "8.0",
+  "ratingCount": "1500000",
+  "duration": "143",
+  "castList": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Scarlett Johansson",
+    "Jeremy Renner",
+    "Mark Ruffalo",
+    "Chris Hemsworth",
+    "Tom Hiddleston",
+    "Clark Gregg",
+    "Cobie Smulders",
+    "Stellan Skarsgård",
+    "Samuel L. Jackson",
+    "Gwyneth Paltrow",
+    "Paul Bettany",
+    "Alexis Denisof",
+    "Tina Benko",
+    "Jerzy Skolimowski",
+    "Kirill Nikiforov",
+    "Jeff Wolfe"
+  ],
+  "characterList": [
+    "Tony Stark",
+    "Steve Rogers",
+    "Natasha Romanoff",
+    "Clint Barton",
+    "Bruce Banner",
+    "Thor",
+    "Loki",
+    "Agent Phil Coulson",
+    "Agent Maria Hill",
+    "Selvig",
+    "Nick Fury",
+    "Pepper Potts",
+    "Jarvis",
+    "The Other",
+    "NASA Scientist",
+    "Georgi Luchkov",
+    "Weaselly Thug",
+    "Tall Thug"
+  ],
+  "directorList": [
+    "Joss Whedon"
+  ],
+  "contentRating": "PG-13",
+  "languageList": [
+    "English",
+    "Russian"
+  ],
+  "userReviews": "2100",
+  "criticReviews": "737"
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Titanic",
+  "id": "34",
+  "year": "1997",
+  "url": "https://www.imdb.com/title/tt0120338/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Drama",
+    "Romance"
+  ],
+  "countryList": [
+    "United States",
+    "Mexico"
+  ],
+  "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+  "budget": "200,000,000",
+  "gross": "2,264,750,694",
+  "ratingValue": "7.9",
+  "ratingCount": "1300000",
+  "duration": "194",
+  "castList": [
+    "Leonardo DiCaprio",
+    "Kate Winslet",
+    "Billy Zane",
+    "Kathy Bates",
+    "Frances Fisher",
+    "Gloria Stuart",
+    "Bill Paxton",
+    "Bernard Hill",
+    "David Warner",
+    "Victor Garber",
+    "Jonathan Hyde",
+    "Suzy Amis",
+    "Lewis Abernathy",
+    "Nicholas Cascone",
+    "Anatoly M. Sagalevitch",
+    "Danny Nucci",
+    "Jason Barry",
+    "Ewan Stewart"
+  ],
+  "characterList": [
+    "Jack Dawson",
+    "Rose Dewitt Bukater",
+    "Cal Hockley",
+    "Molly Brown",
+    "Ruth Dewitt Bukater",
+    "Old Rose",
+    "Brock Lovett",
+    "Captain Smith",
+    "Spicer Lovejoy",
+    "Thomas Andrews",
+    "Bruce Ismay",
+    "Lizzy Calvert",
+    "Lewis Bodine",
+    "Bobby Buell",
+    "Anatoly Milkailavich",
+    "Fabrizio",
+    "Tommy Ryan",
+    "1st Officer Murdoch"
+  ],
+  "directorList": [
+    "James Cameron"
+  ],
+  "contentRating": "PG-13",
+  "languageList": [
+    "English",
+    "Swedish",
+    "Italian",
+    "French"
+  ],
+  "userReviews": "3300",
+  "criticReviews": "236"
+}

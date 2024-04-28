@@ -1,0 +1,71 @@
+{
+  "title": "Harry Potter and the Chamber of Secrets",
+  "id": "300",
+  "year": "2002",
+  "url": "https://www.imdb.com/title/tt0295297/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "countryList": [
+    "United Kingdom",
+    "United States"
+  ],
+  "description": "Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary Chamber of Secrets has been opened. The trio soon realize that, t... Read all",
+  "budget": "100,000,000",
+  "gross": "882,544,885",
+  "ratingValue": "7.4",
+  "ratingCount": "692000",
+  "duration": "161",
+  "castList": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson",
+    "Richard Harris",
+    "Richard Griffiths",
+    "Fiona Shaw",
+    "Harry Melling",
+    "Toby Jones",
+    "Jim Norton",
+    "Veronica Clifford",
+    "James Phelps",
+    "Oliver Phelps",
+    "Julie Walters",
+    "Bonnie Wright",
+    "Mark Williams",
+    "Chris Rankin",
+    "Tom Felton",
+    "Jason Isaacs"
+  ],
+  "characterList": [
+    "Harry Potter",
+    "Ron Weasley",
+    "Hermione Granger",
+    "Albus Dumbledore",
+    "Uncle Vernon",
+    "Aunt Petunia",
+    "Dudley Dursley",
+    "Dobby",
+    "Mr Mason",
+    "Mrs Mason",
+    "Fred Weasley",
+    "George Weasley",
+    "Mrs. Weasley",
+    "Ginny Weasley",
+    "Mr. Weasley",
+    "Percy Weasley",
+    "Draco Malfoy",
+    "Lucius Malfoy"
+  ],
+  "directorList": [
+    "Chris Columbus"
+  ],
+  "contentRating": "PG",
+  "languageList": [
+    "English",
+    "Latin"
+  ],
+  "userReviews": "1000",
+  "criticReviews": "144"
+}

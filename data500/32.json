@@ -1,0 +1,71 @@
+{
+  "title": "King Kong",
+  "id": "32",
+  "year": "2005",
+  "url": "https://www.imdb.com/title/tt0360717/?ref_\u003dfn_tt_tt_1",
+  "genreList": [
+    "Action",
+    "Adventure",
+    "Romance"
+  ],
+  "countryList": [
+    "United States",
+    "New Zealand",
+    "Germany"
+  ],
+  "description": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
+  "budget": "207,000,000",
+  "gross": "556,906,378",
+  "ratingValue": "7.2",
+  "ratingCount": "447000",
+  "duration": "187",
+  "castList": [
+    "Naomi Watts",
+    "Jack Black",
+    "Adrien Brody",
+    "Thomas Kretschmann",
+    "Colin Hanks",
+    "Andy Serkis",
+    "Evan Parke",
+    "Jamie Bell",
+    "Lobo Chan",
+    "John Sumner",
+    "Craig Hall",
+    "Kyle Chandler",
+    "William Johnson",
+    "Mark Hadlow",
+    "Geraldine Brophy",
+    "David Dennis",
+    "David Pittu",
+    "Pip Mushin"
+  ],
+  "characterList": [
+    "Ann Darrow",
+    "Carl Denham",
+    "Jack Driscoll",
+    "Captain Englehorn",
+    "Preston",
+    "Kong",
+    "Hayes",
+    "Jimmy",
+    "Choy",
+    "Herb",
+    "Mike",
+    "Bruce Baxter",
+    "Manny",
+    "Harry",
+    "Maude",
+    "Taps",
+    "Weston",
+    "Zelman"
+  ],
+  "directorList": [
+    "Peter Jackson"
+  ],
+  "contentRating": "PG-13",
+  "languageList": [
+    "English"
+  ],
+  "userReviews": "2800",
+  "criticReviews": "244"
+}
