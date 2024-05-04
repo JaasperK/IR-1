@@ -1,1 +1,1 @@
-Ein Maven-Projekt
+Information Retrieval - Task 1
