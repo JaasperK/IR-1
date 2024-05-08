@@ -3,7 +3,9 @@ package org.example;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collector;
 
 public class IMDBQueries {
 
@@ -43,8 +45,15 @@ public class IMDBQueries {
      * @return top ten movies and the director, sorted by decreasing IMDB rating
      */
     protected List<Tuple<Movie, String>> queryAllRounder(List<Movie> movies) {
-        // TODO Basic Query: insert code here
-        return new ArrayList<>();
+        return movies.stream()
+                .sorted(Comparator.comparing(Movie::getRatingValue).reversed())
+                .map(movie -> new Tuple<>(movie, String.join(", ", movie.getDirectorList())))
+                .limit(10)
+                .collect(Collector.of(
+                        ArrayList<Tuple<Movie, String>>::new,
+                        ArrayList::add,
+                        (list1, list2) -> { list1.addAll(list2); return list1; }
+                ));
     }
 
     /**
@@ -194,7 +203,7 @@ public class IMDBQueries {
             IMDBQueries queries = new IMDBQueries();
             long time = System.currentTimeMillis();
             List<Tuple<Movie, String>> result = queries.queryAllRounder(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty() && result.size() == 10) {
                 for (Tuple<Movie, String> tuple : result) {
@@ -212,7 +221,7 @@ public class IMDBQueries {
             IMDBQueries queries = new IMDBQueries();
             long time = System.currentTimeMillis();
             List<Tuple<Movie, Long>> result = queries.queryUnderTheRadar(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty() && result.size() <= 10) {
                 for (Tuple<Movie, Long> tuple : result) {
@@ -232,7 +241,7 @@ public class IMDBQueries {
             long time = System.currentTimeMillis();
             List<Tuple<Movie, Integer>> result = queries
                 .queryPillarsOfStorytelling(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty() && result.size() <= 10) {
                 for (Tuple<Movie, Integer> tuple : result) {
@@ -250,7 +259,7 @@ public class IMDBQueries {
             IMDBQueries queries = new IMDBQueries();
             long time = System.currentTimeMillis();
             List<Movie> result = queries.queryRedPlanet(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty()) {
                 for (Movie movie : result) {
@@ -267,7 +276,7 @@ public class IMDBQueries {
             IMDBQueries queries = new IMDBQueries();
             long time = System.currentTimeMillis();
             List<Movie> result = queries.queryColossalFailure(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty()) {
                 for (Movie movie : result) {
@@ -286,7 +295,7 @@ public class IMDBQueries {
             long time = System.currentTimeMillis();
             List<Tuple<String, Integer>> result = queries
                 .queryUncreativeWriters(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty() && result.size() <= 10) {
                 for (Tuple<String, Integer> tuple : result) {
@@ -303,7 +312,7 @@ public class IMDBQueries {
             IMDBQueries queries = new IMDBQueries();
             long time = System.currentTimeMillis();
             List<Tuple<String, Integer>> result = queries.queryWorkHorse(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty() && result.size() <= 10) {
                 for (Tuple<String, Integer> actor : result) {
@@ -320,7 +329,7 @@ public class IMDBQueries {
             IMDBQueries queries = new IMDBQueries();
             long time = System.currentTimeMillis();
             List<Movie> result = queries.queryMustSee(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty()) {
                 for (Movie m : result) {
@@ -338,7 +347,7 @@ public class IMDBQueries {
             IMDBQueries queries = new IMDBQueries();
             long time = System.currentTimeMillis();
             List<Movie> result = queries.queryRottenTomatoes(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty()) {
                 for (Movie m : result) {
@@ -357,7 +366,7 @@ public class IMDBQueries {
             long time = System.currentTimeMillis();
             List<Tuple<Tuple<String, String>, Integer>> result = queries
                 .queryMagicCouple(movies);
-            System.out.println("Time:" + (System.currentTimeMillis() - time));
+            System.out.println("Time: " + (System.currentTimeMillis() - time));
 
             if (result != null && !result.isEmpty() && result.size() <= 10) {
                 for (Tuple<Tuple<String, String>, Integer> tuple : result) {
